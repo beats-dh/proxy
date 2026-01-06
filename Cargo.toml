@@ -7,7 +7,7 @@ edition = "2021"
 tokio = { version = "1.40.0", features = ["full"] }
 tokio-util = { version = "0.7.11", features = ["codec"] }
 futures = "0.3.30"
-rsa = "0.7"
+rsa = "0.9"
 base64 = "0.22.1"
 num-bigint = "0.4.6"
 hex = "0.4.3"
